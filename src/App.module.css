@@ -1,87 +1,80 @@
 @font-face {
-    font-family: 'TTTtangsbudaejjigaeB';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2212@1.0/TTTtangsbudaejjigaeB.woff2') format('woff2');
-    font-weight: 700;
-    font-style: normal;
+  font-family: "TTTtangsbudaejjigaeB";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2212@1.0/TTTtangsbudaejjigaeB.woff2")
+    format("woff2");
+  font-weight: 700;
+  font-style: normal;
 }
 
 html {
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .titlename {
-    width: 80rem;
-    display: flex;
-    justify-content: space-between;
-    font-family: 'TTTtangsbudaejjigaeB';
-    background-color: #a6e3e9;
-    font-size: 30px;
+  width: 80rem;
+  display: flex;
+  justify-content: space-between;
+  font-family: "TTTtangsbudaejjigaeB";
+  background-color: #a6e3e9;
+  font-size: 30px;
 }
 .titlename_text {
-    padding-left: 3rem;
-    padding-right: 3rem;
-    padding-top: 2rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding-top: 2rem;
 }
 
 .todolayout {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
 }
 
 .todobox {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-direction: column;
-    max-width: 75rem;
-    min-width: 80rem;
-    font-family: 'TTTtangsbudaejjigaeB';
-    background-color: #cbf1f5;
-    padding-bottom: 2rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  max-width: 75rem;
+  min-width: 80rem;
+  font-family: "TTTtangsbudaejjigaeB";
+  background-color: #cbf1f5;
+  padding-bottom: 2rem;
 }
 
 .todobox_doing {
-    min-height: 12.5rem;
-    width: 90%;
+  min-height: 12.5rem;
+  width: 90%;
 }
 .todobox_outbox {
-    display: grid;
-    grid-template-columns: repeat(4, 20.5rem);
-    grid-template-rows: repeat(1, 12rem);
+  display: grid;
+  grid-template-columns: repeat(4, 20.5rem);
+  grid-template-rows: repeat(1, 12rem);
 }
 
 .todonebox {
-    min-height: 16.5rem;
-    width: 90%;
-    font-family: 'TTTtangsbudaejjigaeB';
-    padding-top: 2rem;
+  min-height: 16.5rem;
+  width: 90%;
+  font-family: "TTTtangsbudaejjigaeB";
+  padding-top: 2rem;
 }
 .todonebox_outbox {
-    display: grid;
-    grid-template-columns: repeat(4, 20.5rem);
-    grid-template-rows: repeat(1, 12rem);
+  display: grid;
+  grid-template-columns: repeat(4, 20.5rem);
+  grid-template-rows: repeat(1, 12rem);
 }
 
 .inputbox {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    max-width: 75rem;
-    min-width: 80rem;
-    background-color: #a6e3e9;
-}
-
-.inputbox_in {
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    min-height: 6.5rem;
-    min-width: 50rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 75rem;
+  min-width: 80rem;
+  background-color: #a6e3e9;
 }

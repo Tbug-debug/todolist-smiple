@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import styles from "../App.module.css";
+import styles from "./Input.module.css";
 
 interface Todoprops {
   todo: string[];
