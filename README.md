@@ -8,4 +8,4 @@ Components 는 3가지로 분류
 2.  Input.tsx
 3.  Todone.tsx
 
-컴포넌트 분류 기준은 **자주 쓰이면서 반복적으로 쓰이는 input이나 button을 컴포넌트로 분류.**
+컴포넌트 분류 기준은 **자주 쓰이면서 반복적으로 쓰이는 input이나 Todo, Todone을 컴포넌트로 분류.**
