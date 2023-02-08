@@ -4,7 +4,7 @@
 ## 목차
 
 -   [1. 프로젝트 소개](#1-프로젝트-소개)
--   [2. 기술스택](#2-기술-스택)
+-   [2. 기술 스택](#2-기술-스택)
 -   [3. Components 분류](#3-Components-분류)
 
 
@@ -12,7 +12,7 @@
 TodoList로 자신이 할일을 작성하고 만드는 기능입니다.
 
 
-## 2. 기술스택
+## 2. 기술 스택
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=blue">
