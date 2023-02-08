@@ -19,7 +19,7 @@ TodoList로 자신이 할일을 작성하고 만드는 기능입니다.
 
 
 ## 3. Components 분류
-1.  Todo.txt
+1.  Todo.tsx
 2.  Input.tsx
 3.  Todone.tsx
 
