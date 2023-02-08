@@ -15,6 +15,7 @@ TodoList로 자신이 할일을 작성하고 만드는 기능입니다.
 ## 2. 기술스택
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=#3178C6">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 
 
